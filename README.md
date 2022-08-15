@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohammad ! 👋
  
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mhdph&show_icons=true&theme=radical"/>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhdph&layout=compact"/>
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spartan051&layout=compact"/>
  <br/>
   <h3 style={margin-top: 20px;}>Favourite Language</h3>  
    
